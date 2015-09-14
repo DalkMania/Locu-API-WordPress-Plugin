@@ -1,0 +1,16 @@
+.locu-settings {
+	background:url('../images/locu-logo-admin.png') no-repeat 25% 5%;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+
+	.locu-settings {
+		background:url('../images/locu-logo-admin@2x.png') no-repeat 25% 5%;
+		background-size: 150px 68px
+	}
+
+}
+
+#lookup {
+	margin-left:20px;
+}
