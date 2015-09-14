@@ -1,0 +1,1 @@
+# Locu-API-WordPress-Plugin
